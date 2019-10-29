@@ -1,0 +1,37 @@
+.Character {
+  
+  list-style-type: none;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  border: solid 1px black;
+  border-radius: 8px;
+  padding: 5px;
+  background-color: rgb(48, 47, 47);
+
+  
+
+  p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+  }
+  img {
+    margin-bottom: 0;
+    border-radius: 8px;
+  }
+}
+
+.info {
+  color: white;
+  margin-top: 0;
+  padding: 4px;
+  width: 292px;
+  height: 140px;
+}
+
+.charName {
+  color: orange;
+}
