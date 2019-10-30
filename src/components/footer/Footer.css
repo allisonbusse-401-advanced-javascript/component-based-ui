@@ -1,0 +1,10 @@
+.Footer {
+  border-top: solid 10px orange;
+  background-color: rgb(48, 47, 47);
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+}
